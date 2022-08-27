@@ -1,0 +1,21 @@
+{
+  "name": "random-gen-str-nator",
+  "version": "1.0.0",
+  "description": "Random string generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Robert Manotas <robert.alejandro.manotas@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/Biggyhands/random-gen-str-nator#readme",
+  "bin": {
+    "random-gen-str-nator": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
+
